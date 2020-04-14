@@ -3,7 +3,7 @@ title: 泓儿的秘密基地
 SEOTitle: 泓儿的博客 | CHY's Blog
 header-img: img/post-bg-desk.jpg
 email: anticlockworld@gmail.com
-description: "你不要原地自责"
+description: "还需要成长"
 keyword: "blog"
 url: "http://anticlockworld.cn"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -91,7 +91,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#ffffff"
 service-worker: true
 
 
