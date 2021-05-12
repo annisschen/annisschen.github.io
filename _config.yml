@@ -1,13 +1,13 @@
 # Site settings
-title: 泓儿的秘密基地
-SEOTitle: 泓儿的博客 | CHY's Blog
+title: Elizabeth的秘密基地
+SEOTitle: Elizabeth的博客 | Elizabeth's Blog
 header-img: img/post-bg-desk.jpg
 # email: anticlockworld@gmail.com
 description: "还需要成长"
 keyword: "blog"
 url: "http://anticlockworld.cn"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/annisschen/annisschen.github.io.git" # you code repository
+# github_repo: "https://github.com/annisschen/annisschen.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/chy-avatar.jpg      # use absolute URL, seeing it's used in
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     secret
-github_username:    annisschen
+# github_username:    annisschen
 #facebook_username:  secret
 #jianshu_username:   secret
 #twitter_username:   qiubaiying
